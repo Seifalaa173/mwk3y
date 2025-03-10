@@ -1,0 +1,19 @@
+body {
+  background-color: #fcfafb;
+}
+h1 {
+  color: rgb(254, 206, 206);
+}
+
+p {
+  color: rgb(238, 59, 59);
+}
+.x {
+  color: blueviolet;
+}
+.y {
+  color: blue;
+}
+#z {
+  color: chartreuse;
+}
